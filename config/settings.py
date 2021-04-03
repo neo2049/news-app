@@ -130,10 +130,10 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
-DEFAULT_FROM_EMAIL = 'parvez.halim@iorekcloud.com'
+DEFAULT_FROM_EMAIL = 'xxxx@email.com'
 EMAIL_HOST = 'smtp.sendgrid.net'
 EMAIL_HOST_USER = 'apikey'
-EMAIL_HOST_PASSWORD = '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'
+EMAIL_HOST_PASSWORD = 'xxxxxxxx. '
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
